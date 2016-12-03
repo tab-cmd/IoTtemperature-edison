@@ -1,0 +1,83 @@
+{
+  "project": {
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {},
+    "projectSettingsVersion": "3.0.0"
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1480798498000,
+        "modified": 1480798498000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1480798498000,
+        "modified": 1480798498000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "cfg-app-platform.js": {
+        "previousModTime": 1480798498000,
+        "modified": 1480798498000,
+        "seen": true,
+        "name": "cfg-app-platform.js"
+      },
+      "compost-temp-monitor.xdk": {
+        "previousModTime": 1480799246000,
+        "modified": 1480799246000,
+        "seen": true,
+        "name": "compost-temp-monitor.xdk"
+      },
+      "compost-temp-monitor.xdke": {
+        "previousModTime": 1480799249000,
+        "modified": 1480799249000,
+        "seen": true,
+        "name": "compost-temp-monitor.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1480798996000,
+        "modified": 1480798996000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1480799016000,
+        "modified": 1480799016000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1480799245000,
+        "modified": 1480799245000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1480799256725
+      },
+      "README.md": {
+        "previousModTime": 1480799256725
+      },
+      "cfg-app-platform.js": {
+        "previousModTime": 1480799256725
+      },
+      "main.js": {
+        "previousModTime": 1480799256725
+      },
+      "package.json": {
+        "previousModTime": 1480799256725
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1480799256725
+      }
+    }
+  }
+}
