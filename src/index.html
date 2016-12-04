@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>Compos-it</title>
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Amatic+SC|Cabin+Sketch|Pacifico|Quicksand|Raleway|Roboto" rel="stylesheet">
+  <link rel='stylesheet' href='vendor/styles/normalize.css'>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/layout.css">
+</head>
+
+<body>
+  <div id="container">
+    <header class="main-header">
+      <div class="header-wrap">
+        <div class="logo">
+          <img src="images/sprouts2.png"/>
+          <h1>Compos-it</h1>
+        </div>
+
+        <nav class="main-nav">
+          <ul>
+            <li class="navtab"><a href="/">Home</a></li>
+            <li class="navtab"><a href="/profile">Profile</a></li>
+            <li class="navtab"><a href="/dashboard">Dashboard</a></li>
+            <li class="navtab"><a href="/manage">Manage</a></li>
+            <li class="navtab"><a href="/community">Community</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <!-- <div class="background-image">
+        <img src="images/compost.jpg"/>
+      </div> -->
+
+      <div class="tab-container">
+        <section id="home-page" class="tab-content">
+          <div class="signin">
+            <h1>Welcome!</h1>
+            <p id="question">Interested in composting but have some questions?</p>
+            <p id="pitch">Composting is a significant way to contribute to a sustainable community. Compos-it can help you identify ways you can optimize the health of your compost project by monitoring the components involved in cultivating an ideal compost ecosystem.</p>
+
+            <h2>Sign-in</h2>
+            <form name="signin" action="" method="" accept-charset="UTF-8">
+              <label for="username">Username:</label><br>
+              <input type="text" name="username" placeholder="myusername" required><br>
+              <label for="password">Password:</label><br>
+              <input type="text" name="password" placeholder="mypassword" required><br>
+
+              <div class="signin-submit">
+                <button id="signin-submit" type="button">Sign-in</button><br>
+              </div>
+            </form>
+
+            <h2>Create an account</h2>
+            <form name="signup" action="" method="" accept-charset="UTF-8">
+              <label for="username">Username:</label><br>
+              <input type="text" name="username" placeholder="myusername" required><br>
+              <label for="password">Password:</label><br>
+              <input type="text" name="password" placeholder="mypassword" required><br>
+
+              <div class="signup-submit">
+                <button id="signup-submit" type="button">Create account</button><br>
+              </div>
+            </form>
+          </div>
+
+        <section id="dashboard-page" class="tab-content">
+          <!-- Link to templated dashboard -->
+        </section>
+
+      </div>
+    </main>
+  </div>
+
+  <script type="text/javascript" src="/vendor/scripts/page.js"></script>
+</body>
+<html>
