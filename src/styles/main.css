@@ -1,0 +1,56 @@
+body {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 1.5em;
+  color: #1a1914;
+  background-color: #fcf7f4;
+}
+
+.logo h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+  text-align: center;
+  color: #1a1914;
+}
+
+.main-nav ul {
+  list-style-type: none;
+}
+
+.main-nav li {
+  font-size: .75em;
+  text-align: left;
+}
+
+a, a:link, a:active {
+  color: #1a1914;
+  text-decoration: none;
+}
+
+a:hover, a:focus a:visited {
+  color: #76b57c;
+}
+
+.signin h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+  text-align: center;
+  color: #1a1914;
+}
+
+.signin h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 1em;
+  text-align: left;
+  color: #1a1914;
+}
+
+#question {
+  color: #bd5632;
+  font-size: .9em;
+  text-align: center;
+}
+
+p {
+  font-size: .75em;
+  text-align: left;
+}
