@@ -1,16 +1,3 @@
-/*
- * Initialization and configuration code for the 'IoT LED Blink' app.
- * Designed to allow use of this sample on a variety of platforms.
- *
- * See LICENSE.md for license terms and conditions.
- */
-
-// keep /*jslint and /*jshint lines for proper jshinting and jslinting
-// see http://www.jslint.com/help.html and http://jshint.com/docs
-/* jslint node:true */
-/* jshint unused:true */
-
-
 
 /**
  * This module.exports() structure + the cfg = {} object
